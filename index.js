@@ -5,3 +5,6 @@ console.log(dob);
 const age = 21;
 console.log(age);
 
+function add(a, b) {    
+    return a + b;
+}
